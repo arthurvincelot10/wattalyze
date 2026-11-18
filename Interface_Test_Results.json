@@ -1,0 +1,28 @@
+{
+  "tagline_beside_logo": true,
+  "removed_water_selector": true,
+  "appliance_columns": 5,
+  "removed_source_fields": true,
+  "removed_brand_fields": true,
+  "dorm": {
+    "cards": 2,
+    "invalid_inputs": 0
+  },
+  "ac": {
+    "cards": 7,
+    "invalid_inputs": 0
+  },
+  "everyday": {
+    "cards": 5,
+    "invalid_inputs": 0
+  },
+  "water_row_independently_counted": true,
+  "vietnamese_units_no_english_year_cycle": true,
+  "vietnamese_case_name": true,
+  "dark_theme": true,
+  "account_history_rows": 1,
+  "saved_actions": 1,
+  "restored_bill": "350",
+  "mobile_no_page_overflow": true,
+  "javascript_errors": []
+}

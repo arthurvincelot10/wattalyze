@@ -1,0 +1,11 @@
+name,actual,expected,pass
+"100W,5h/day,30 days",15,15,True
+365 kWh/year prorated,30,30,True
+0.5 kWh daily cycle,15,15,True
+100 kWh subtotal,190100,190100,True
+200 kWh subtotal,419000,419000,True
+400 kWh subtotal,997800,997800,True
+700 kWh subtotal,2034600,2034600,True
+701 kWh subtotal,2038444,2038444,True
+100 kWh with VAT,205308,205308,True
+Flat with VAT and fixed charge,58600,58600,True
